@@ -2,8 +2,9 @@
     {
         "id": "1",
         "name": "Tommy Miah",
+        "number_of_recipes": "3",
         "specialty": "Mutton Curry",
-        "img_url": "https://img.freepik.com/free-photo/portrait-confident-male-chef-kitchen_23-2147863584.jpg?w=360&t=st=1683018358~exp=1683018958~hmac=3529521e4f23ecc96e68dc93963a0f9ebec767120ce26007ff1bd9d8c7026c56",
+        "img_url": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1683038922~exp=1683039522~hmac=34a678ac0e2071dad1be114bb78b79c30c52abf202af238df240f3450b2dc6ac",
         "years_of_experience": "8",
         "likes": "1500",
         "bio": "Tommy Miah is a Bangladeshi-born British chef and restaurateur known for his authentic and innovative Bangladeshi cuisine. He is the founder of several successful restaurants, authored cookbooks, and established the International Indian Chef of the Year competition. He is also a philanthropist and founder of the Tommy Miah Institute of Hospitality Management in Bangladesh. Tommy has received an OBE for his contributions to the hospitality industry.",
@@ -12,7 +13,7 @@
                 "_id": "1a",
                 "food_name": "Mutton Curry with Potatoes",
                 "food_img": "https://img.freepik.com/free-photo/front-view-tasty-meat-soup-with-potatoes-greens-dark-desk-meal-meat-dish-sauce_140725-79116.jpg?w=740&t=st=1683018577~exp=1683019177~hmac=4d72d7f4acb29e6052ea10a8608ad06adebfbc63dfa0e2efe1e49301d0b8579f",
-                "method": "Cut the meat into small pieces, wash and drain properly.Wash and drain potatoes. Mix with some salt and a pinch of turmeric powder or alternatively saffron powder for color.Now heat oil in a pan. Deep fry the potatoes till brown. Strain the potatoes to remove extra oil and set aside.Now in the same oil add chopped onions, bay leaves, cloves and cook for a minute to make onions tender. No need to fry onions to brown. Add garlic and ginger pastes and stir for a while. Now add cumin powder, red chili powder, cinnamon powder, cardamom powder and some water. Mix and cook well till the spices release oil. Now add meat pieces and mix them properly. No need to add water in this stage since meat releases water. Cook for 5 minutes.When the spices mix gets thick and oil separates, add mace-nutmeg pastes, papaya paste and give a nice mix. Add water and cover with the lid. Cook for 20 minutes. You can add extra water in this stage and cook for extra 5 minutes if the meat is still hard. When water is reduced to half, add turmeric powder and cook for 2 to 3 minutes.Then add water as per your gravy requirement and cook with the lid. While boiling add the potatoes, again close the lid and cook for 15 to 20 minutes. When the gravy is dried to your requirement, turn the heat off and sprinkle some roasted cardamom, cumin and cinnamon powder mix. Serve warm with plain or pulao/pilaf rice, roti, paratha or naan bread.",
+                "method": "Cut the meat into small pieces, wash and drain properly.Wash and drain potatoes. Mix with some salt and a pinch of turmeric powder or alternatively saffron powder for color.Now heat oil in a pan. Deep fry the potatoes till brown. Strain the potatoes to remove extra oil and set aside.Now in the same oil add chopped onions, bay leaves, cloves and cook for a minute to make onions tender. Then add water as per your gravy requirement and cook with the lid. Add garlic and ginger pastes and stir for a while. Then add water as per your gravy requirement and cook with the lid. While boiling add the potatoes, again close the lid and cook for 15 to 20 minutes. Deep fry the potatoes till brown. When the gravy is dried to your requirement, turn the heat off and sprinkle some roasted cardamom, cumin and cinnamon powder mix. Serve warm with plain or pulao/pilaf rice, roti, paratha or naan bread.",
                 "Ingredients": "1 kg mutton, cut into pieces3 onions, finely chopped tomatoes, finely chopped,2 tbsp ginger-garlic paste, 2 green chillies, slit, 2 tsp red chilli powder,1 tsp turmeric powder, 1 tsp coriander powder, 1 tsp cumin powder, 1 tsp garam masala powder, 1/2 cup yogurt, Salt to taste, 3 tbsp oi,lFresh coriander leaves for garnishing",
                 "rating": "4.5"
             },
@@ -20,7 +21,7 @@
                 "_id": "1b",
                 "food_name": "Bhuna Gosht",
                 "food_img": "https://img.freepik.com/free-photo/top-view-vegetable-soup-with-meat-inside-plate-grey_140725-36040.jpg?w=740&t=st=1683019809~exp=1683020409~hmac=95fe1982fc2b8a8de59935f7f6187f296a3ebefc7e4d6e1b126ab30aaa46abbc",
-                "method": "Cut the meat into small pieces, wash and drain properly.Wash and drain potatoes. Mix with some salt and a pinch of turmeric powder or alternatively saffron powder for color.Now heat oil in a pan. Deep fry the potatoes till brown. Strain the potatoes to remove extra oil and set aside.Now in the same oil add chopped onions, bay leaves, cloves and cook for a minute to make onions tender. No need to fry onions to brown. Add garlic and ginger pastes and stir for a while. Now add cumin powder, red chili powder, cinnamon powder, cardamom powder and some water. Then add water as per your gravy requirement and cook with the lid. While boiling add the potatoes, again close the lid and cook for 15 to 20 minutes. When the gravy is dried to your requirement, turn the heat off and sprinkle some roasted cardamom, cumin and cinnamon powder mix. Serve warm with plain or pulao/pilaf rice, roti, paratha or naan bread.",
+                "method": "Rinse the rice in cold water and soak for 30 minutes. Cut the meat into small pieces, wash and drain properly.Wash and drain potatoes. Mix with some salt and a pinch of turmeric powder or alternatively saffron powder for color.Now heat oil in a pan. Deep fry the potatoes till brown. Strain the potatoes to remove extra oil and set aside. No need to fry onions to brown. Add garlic and ginger pastes and stir for a while. Now add cumin powder, red chili powder, cinnamon powder, cardamom powder and some water. Then add water as per your gravy requirement and cook with the lid. While boiling add the potatoes, again close the lid and cook for 15 to 20 minutes. When the gravy is dried to your requirement, turn the heat off and sprinkle some roasted cardamom, cumin and cinnamon powder mix. Serve warm with plain or pulao/pilaf rice, roti, paratha or naan bread.",
                 "Ingredients": "1 kg mutton, cut into pieces3 onions, finely chopped tomatoes, finely chopped,2 tbsp ginger-garlic paste, 2 green chillies, slit, 2 tsp red chilli powder,1 tsp turmeric powder, 1 tsp coriander powder, 1 tsp cumin powder, 1 tsp garam masala powder, 1/2 cup yogurt, Salt to taste, 3 tbsp oi,lFresh coriander leaves for garnishing",
                 "rating": "4.4"
             },
@@ -28,7 +29,7 @@
                 "_id": "1c",
                 "food_name": "Mutton Keema",
                 "food_img": "https://img.freepik.com/free-photo/delicious-goulash-stew-table_23-2149371732.jpg?w=360&t=st=1683020067~exp=1683020667~hmac=58505690c48147577b2806eeca526989343bec3ea39dee9ccebd2a6d2d2ef167",
-                "method": "Heat oil in a pan and sauté the onions until golden brown. Add the ginger-garlic paste and green chillies and sauté for a minute. Add the tomatoes, red chilli powder, turmeric powder, coriander powder, cumin powder, and salt to taste. Cook until the tomatoes are soft. Add the mutton keema and mix well. Simmer on low heat for 10-15 minutes until the keema is well cooked and the gravy has thickened.Garnish with fresh coriander leaves and serve hot with rice or roti. Enjoy your delicious Mutton Keema!",
+                "method": "Heat oil in a pan and sauté the onions until golden brown. Add the ginger-garlic paste and green chillies and sauté for a minute. Add the tomatoes, red chilli powder, turmeric powder, coriander powder, cumin powder, and salt to taste. Cook until the tomatoes are soft. Mix and cook well till the spices release oil. Now add meat pieces and mix them properly. Now in the same oil add chopped onions, bay leaves, cloves and cook for a minute to make onions tender. No need to fry onions to brown. Add garlic and ginger pastes and stir for a while. Now add cumin powder, red chili powder, cinnamon powder, cardamom powder and some water. Add the mutton keema and mix well. Simmer on low heat for 10-15 minutes until the keema is well cooked and the gravy has thickened.Garnish with fresh coriander leaves and serve hot with rice or roti. Enjoy your delicious Mutton Keema!",
                 "Ingredients": "1 kg mutton, cut into pieces3 onions, finely chopped tomatoes, finely chopped,2 tbsp ginger-garlic paste, 2 green chillies, slit, 2 tsp red chilli powder,1 tsp turmeric powder, 1 tsp coriander powder, 1 tsp cumin powder, 1 tsp garam masala powder, 1/2 cup yogurt, Salt to taste, 3 tbsp oi,lFresh coriander leaves for garnishing",
                 "rating": "4.6"
             }
@@ -37,6 +38,7 @@
     {
         "id": "2",
         "name": "Dr. Siddika Kabir",
+        "number_of_recipes": "3",
         "specialty": "Biriyani",
         "img_url": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?w=740&t=st=1683021033~exp=1683021633~hmac=00823a81b1c9a0de2c4ed1356530c49d4160bf98719e8375caab1531db27d281",
         "years_of_experience": "8",
@@ -72,8 +74,9 @@
     {
         "id": "3",
         "name": "Shawkat Osman",
+        "number_of_recipes": "3",
         "specialty": "Fish Curry",
-        "img_url": "https://img.freepik.com/free-photo/portrait-confident-male-chef-kitchen_23-2147863584.jpg?w=360&t=st=1682997274~exp=1682997874~hmac=7c91204af1977342b675ec55024986b6ced795aac8402051441d1b56e963e073",
+        "img_url": "https://img.freepik.com/free-photo/satisfied-professional-male-chef-cook-white-uniform-cook-hat-standing-with-arms-crossed-looking-confident-green-background_141793-21131.jpg?w=740&t=st=1683038980~exp=1683039580~hmac=a1a8575b73daab05fa5d0ec05cedf5890eca5dc0acd6c8939c3d3da4b427b36a",
         "years_of_experience": "12",
         "likes": "3000",
         "bio": "Chef Shawkat Osman was a renowned Bangladeshi chef who introduced the concept of fusion cuisine in Bangladesh. He was the founder of the culinary arts department at the International Hotel and Tourism Training Institute in Dhaka. Chef Osman was awarded the prestigious 'Best Chef' award by the Bangladesh International Hotel Association.",
@@ -107,6 +110,7 @@
     {
         "id": "4",
         "name": "Tahsin Rahman",
+        "number_of_recipes": "3",
         "specialty": "Bangladeshi cuisine",
         "img_url": "https://img.freepik.com/premium-photo/happy-male-chef-dressed-uniform-holding-wooden-spoon_156779-545.jpg?w=900",
         "years_of_experience": "10",
@@ -142,6 +146,7 @@
     {
         "id": "5",
         "name": "Nazim Ahmed",
+        "number_of_recipes": "3",
         "specialty": "Bhuna khichuri",
         "img_url": "https://img.freepik.com/free-photo/image-cheerful-young-cook-uniform-standing-isolated-grey-wall_171337-5340.jpg?w=740&t=st=1683025182~exp=1683025782~hmac=720cd6ef1e9c4c63113826e007941642c29d731df2641a1bc44c45acff1e2dc7",
         "years_of_experience": "8",
@@ -177,6 +182,7 @@
     {
         "id": "6",
         "name": "Tareq Taylor",
+        "number_of_recipes": "3",
         "specialty": "Butter chicken",
         "img_url": "https://img.freepik.com/free-photo/cook-uniform-holding-salad-showing-okay-gesture_171337-5345.jpg?w=740&t=st=1683025560~exp=1683026160~hmac=fcc66fc1a131ed4277832d3ad590cbaea1d00706add2e2810d08f02f73f88bf5",
         "years_of_experience": "7",
