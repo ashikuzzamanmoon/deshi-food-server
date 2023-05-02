@@ -1,0 +1,212 @@
+[
+    {
+        "id": "1",
+        "name": "Tommy Miah",
+        "specialty": "Mutton Curry",
+        "img_url": "https://img.freepik.com/free-photo/portrait-confident-male-chef-kitchen_23-2147863584.jpg?w=360&t=st=1683018358~exp=1683018958~hmac=3529521e4f23ecc96e68dc93963a0f9ebec767120ce26007ff1bd9d8c7026c56",
+        "years_of_experience": "8",
+        "likes": "1500",
+        "bio": "Tommy Miah is a Bangladeshi-born British chef and restaurateur known for his authentic and innovative Bangladeshi cuisine. He is the founder of several successful restaurants, authored cookbooks, and established the International Indian Chef of the Year competition. He is also a philanthropist and founder of the Tommy Miah Institute of Hospitality Management in Bangladesh. Tommy has received an OBE for his contributions to the hospitality industry.",
+        "recipes": [
+            {
+                "_id": "1a",
+                "food_name": "Mutton Curry with Potatoes",
+                "food_img": "https://img.freepik.com/free-photo/front-view-tasty-meat-soup-with-potatoes-greens-dark-desk-meal-meat-dish-sauce_140725-79116.jpg?w=740&t=st=1683018577~exp=1683019177~hmac=4d72d7f4acb29e6052ea10a8608ad06adebfbc63dfa0e2efe1e49301d0b8579f",
+                "method": "Cut the meat into small pieces, wash and drain properly.Wash and drain potatoes. Mix with some salt and a pinch of turmeric powder or alternatively saffron powder for color.Now heat oil in a pan. Deep fry the potatoes till brown. Strain the potatoes to remove extra oil and set aside.Now in the same oil add chopped onions, bay leaves, cloves and cook for a minute to make onions tender. No need to fry onions to brown. Add garlic and ginger pastes and stir for a while. Now add cumin powder, red chili powder, cinnamon powder, cardamom powder and some water. Mix and cook well till the spices release oil. Now add meat pieces and mix them properly. No need to add water in this stage since meat releases water. Cook for 5 minutes.When the spices mix gets thick and oil separates, add mace-nutmeg pastes, papaya paste and give a nice mix. Add water and cover with the lid. Cook for 20 minutes. You can add extra water in this stage and cook for extra 5 minutes if the meat is still hard. When water is reduced to half, add turmeric powder and cook for 2 to 3 minutes.Then add water as per your gravy requirement and cook with the lid. While boiling add the potatoes, again close the lid and cook for 15 to 20 minutes. When the gravy is dried to your requirement, turn the heat off and sprinkle some roasted cardamom, cumin and cinnamon powder mix. Serve warm with plain or pulao/pilaf rice, roti, paratha or naan bread.",
+                "Ingredients": "1 kg mutton, cut into pieces3 onions, finely chopped tomatoes, finely chopped,2 tbsp ginger-garlic paste, 2 green chillies, slit, 2 tsp red chilli powder,1 tsp turmeric powder, 1 tsp coriander powder, 1 tsp cumin powder, 1 tsp garam masala powder, 1/2 cup yogurt, Salt to taste, 3 tbsp oi,lFresh coriander leaves for garnishing",
+                "rating": "4.5"
+            },
+            {
+                "_id": "1b",
+                "food_name": "Bhuna Gosht",
+                "food_img": "https://img.freepik.com/free-photo/top-view-vegetable-soup-with-meat-inside-plate-grey_140725-36040.jpg?w=740&t=st=1683019809~exp=1683020409~hmac=95fe1982fc2b8a8de59935f7f6187f296a3ebefc7e4d6e1b126ab30aaa46abbc",
+                "method": "Cut the meat into small pieces, wash and drain properly.Wash and drain potatoes. Mix with some salt and a pinch of turmeric powder or alternatively saffron powder for color.Now heat oil in a pan. Deep fry the potatoes till brown. Strain the potatoes to remove extra oil and set aside.Now in the same oil add chopped onions, bay leaves, cloves and cook for a minute to make onions tender. No need to fry onions to brown. Add garlic and ginger pastes and stir for a while. Now add cumin powder, red chili powder, cinnamon powder, cardamom powder and some water. Then add water as per your gravy requirement and cook with the lid. While boiling add the potatoes, again close the lid and cook for 15 to 20 minutes. When the gravy is dried to your requirement, turn the heat off and sprinkle some roasted cardamom, cumin and cinnamon powder mix. Serve warm with plain or pulao/pilaf rice, roti, paratha or naan bread.",
+                "Ingredients": "1 kg mutton, cut into pieces3 onions, finely chopped tomatoes, finely chopped,2 tbsp ginger-garlic paste, 2 green chillies, slit, 2 tsp red chilli powder,1 tsp turmeric powder, 1 tsp coriander powder, 1 tsp cumin powder, 1 tsp garam masala powder, 1/2 cup yogurt, Salt to taste, 3 tbsp oi,lFresh coriander leaves for garnishing",
+                "rating": "4.4"
+            },
+            {
+                "_id": "1c",
+                "food_name": "Mutton Keema",
+                "food_img": "https://img.freepik.com/free-photo/delicious-goulash-stew-table_23-2149371732.jpg?w=360&t=st=1683020067~exp=1683020667~hmac=58505690c48147577b2806eeca526989343bec3ea39dee9ccebd2a6d2d2ef167",
+                "method": "Heat oil in a pan and sauté the onions until golden brown. Add the ginger-garlic paste and green chillies and sauté for a minute. Add the tomatoes, red chilli powder, turmeric powder, coriander powder, cumin powder, and salt to taste. Cook until the tomatoes are soft. Add the mutton keema and mix well. Simmer on low heat for 10-15 minutes until the keema is well cooked and the gravy has thickened.Garnish with fresh coriander leaves and serve hot with rice or roti. Enjoy your delicious Mutton Keema!",
+                "Ingredients": "1 kg mutton, cut into pieces3 onions, finely chopped tomatoes, finely chopped,2 tbsp ginger-garlic paste, 2 green chillies, slit, 2 tsp red chilli powder,1 tsp turmeric powder, 1 tsp coriander powder, 1 tsp cumin powder, 1 tsp garam masala powder, 1/2 cup yogurt, Salt to taste, 3 tbsp oi,lFresh coriander leaves for garnishing",
+                "rating": "4.6"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Dr. Siddika Kabir",
+        "specialty": "Biriyani",
+        "img_url": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?w=740&t=st=1683021033~exp=1683021633~hmac=00823a81b1c9a0de2c4ed1356530c49d4160bf98719e8375caab1531db27d281",
+        "years_of_experience": "8",
+        "bio": "Chef Dr. Siddika Kabir was a renowned Bangladeshi nutritionist, culinary expert, and cookbook author. She is best known for her contributions to the promotion of Bangladeshi cuisine, and her book is considered a classic in the field. Kabir was awarded numerous national and international accolades for her culinary expertise.",
+        "likes": "1400",
+        "recipes": [
+            {
+                "_id": "2a",
+                "food_name": "Chiken Biryani",
+                "food_img": "https://img.freepik.com/free-photo/side-view-pilaf-with-stewed-beef-meat-plate_141793-5057.jpg?w=740&t=st=1683021339~exp=1683021939~hmac=d03aa6106b4dee6a1e5a7fa0fe6d50af2717c21362b9c872833412f7bc019867",
+                "method": "Rinse the rice in cold water and soak for 30 minutes.Heat ghee or oil in a large pot and add the whole spices (cumin seeds, bay leaves, cinnamon sticks, cloves, and cardamom pods). Sauté for a few seconds until fragrant. Add the sliced onions and green chillies, and sauté until the onions are golden brown. Add the chopped coriander and mint leaves, and half of the fried onions. Pour in 2 cups of hot water and mix well. Cover the pot with a tight-fitting lid and cook on low heat for 15-20 minutes until the rice is cooked and the water has been absorbed. Remove the lid and sprinkle the remaining fried onions and saffron (if using) over the top of the biriyani. Cover again and let it sit for 5-10 minutes. Serve hot with raita or salad.",
+                "Ingredients": "500g basmati rice, 1kg chicken, cut into small pieces, 2 onions, sliced, 2 tomatoes, chopped, 2 green chillies, slit, 2 tbsp ginger-garlic paste, 1 tsp cumin seeds, 1 tsp coriander powder, 1 tsp red chilli powder, 1/2 tsp turmeric powder, 2-3 bay leaves, 2-3 cinnamon sticks, 4-5 cloves, 4-5 cardamom pods,Salt to taste, 4 tbsp ghee or oil, 1/2 cup fresh coriander leaves, chopped, 1/2 cup fresh mint leaves, chopped, 1/2 cup fried onions, 2 cups hot water",
+                "rating": "4.3"
+            },
+            {
+                "_id": "2b",
+                "food_name": "Mutton Biryani",
+                "food_img": "https://img.freepik.com/free-photo/side-close-up-view-pilaf-appetizing-pilaf-with-rice-meat-dried-fruits_140725-74038.jpg?w=740&t=st=1683021933~exp=1683022533~hmac=32f6f59cb2b6c9d6fe856352225817bd820e16cd0451f2155032d77a985a37e0",
+                "method": "Rinse the rice in cold water and soak for 30 minutes.Heat ghee or oil in a large pot and add the whole spices (cumin seeds, bay leaves, cinnamon sticks, cloves, and cardamom pods). Sauté for a few seconds until fragrant. Add the sliced onions and green chillies, and sauté until the onions are golden brown. Add the chopped coriander and mint leaves, and half of the fried onions. Pour in 2 cups of hot water and mix well. Cover the pot with a tight-fitting lid and cook on low heat for 15-20 minutes until the rice is cooked and the water has been absorbed. Remove the lid and sprinkle the remaining fried onions and saffron (if using) over the top of the biriyani. Cover again and let it sit for 5-10 minutes. Serve hot with raita or salad.",
+                "Ingredients": "500g basmati rice, 1kg mutton, cut into small pieces, 2 onions, sliced, 2 tomatoes, chopped, 2 green chillies, slit, 2 tbsp ginger-garlic paste, 1 tsp cumin seeds, 1 tsp coriander powder, 1 tsp red chilli powder, 1/2 tsp turmeric powder, 2-3 bay leaves, 2-3 cinnamon sticks, 4-5 cloves, 4-5 cardamom pods,Salt to taste, 4 tbsp ghee or oil, 1/2 cup fresh coriander leaves, chopped, 1/2 cup fresh mint leaves, chopped, 1/2 cup fried onions, 2 cups hot water",
+                "rating": "4.5"
+            },
+            {
+                "_id": "2c",
+                "food_name": "Beef Biryani",
+                "food_img": "https://img.freepik.com/free-photo/side-view-rice-garnish-with-fried-onion-carrot-greens-chili-pepper-table_141793-5069.jpg?w=740&t=st=1683022047~exp=1683022647~hmac=f550b800d697bee6b9e4c22d157a42fb37caaf93c7aea2dd449f79af64cc597f",
+                "method": "Rinse the rice in cold water and soak for 30 minutes.Heat ghee or oil in a large pot and add the whole spices (cumin seeds, bay leaves, cinnamon sticks, cloves, and cardamom pods). Sauté for a few seconds until fragrant. Add the sliced onions and green chillies, and sauté until the onions are golden brown. Add the chopped coriander and mint leaves, and half of the fried onions. Pour in 2 cups of hot water and mix well. Cover the pot with a tight-fitting lid and cook on low heat for 15-20 minutes until the rice is cooked and the water has been absorbed. Remove the lid and sprinkle the remaining fried onions and saffron (if using) over the top of the biriyani. Cover again and let it sit for 5-10 minutes. Serve hot with raita or salad.",
+                "Ingredients": "500g basmati rice, 1kg beef, cut into small pieces, 2 onions, sliced, 2 tomatoes, chopped, 2 green chillies, slit, 2 tbsp ginger-garlic paste, 1 tsp cumin seeds, 1 tsp coriander powder, 1 tsp red chilli powder, 1/2 tsp turmeric powder, 2-3 bay leaves, 2-3 cinnamon sticks, 4-5 cloves, 4-5 cardamom pods,Salt to taste, 4 tbsp ghee or oil, 1/2 cup fresh coriander leaves, chopped, 1/2 cup fresh mint leaves, chopped, 1/2 cup fried onions, 2 cups hot water",
+                "rating": "4.6"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Shawkat Osman",
+        "specialty": "Fish Curry",
+        "img_url": "https://img.freepik.com/free-photo/portrait-confident-male-chef-kitchen_23-2147863584.jpg?w=360&t=st=1682997274~exp=1682997874~hmac=7c91204af1977342b675ec55024986b6ced795aac8402051441d1b56e963e073",
+        "years_of_experience": "12",
+        "likes": "3000",
+        "bio": "Chef Shawkat Osman was a renowned Bangladeshi chef who introduced the concept of fusion cuisine in Bangladesh. He was the founder of the culinary arts department at the International Hotel and Tourism Training Institute in Dhaka. Chef Osman was awarded the prestigious 'Best Chef' award by the Bangladesh International Hotel Association.",
+        "recipes": [
+            {
+                "_id": "3a",
+                "food_name": "Fish curry with coconut milk",
+                "food_img": "https://img.freepik.com/free-photo/top-view-delicious-fish-meal-tray_23-2148734692.jpg?w=740&t=st=1683022604~exp=1683023204~hmac=afdec6e7d84c51b19180ec23f8585d1e6a84e57bb443db9cae3b5fb6d68f4e5d",
+                "method": "Heat oil in a pan and add the finely chopped onions. Sauté until the onions turn translucent. Add the ginger and garlic paste and sauté for a minute. Add the chopped tomatoes and green chillies, and cook until the tomatoes are soft and pulpy. Add cumin powder, coriander powder, turmeric powder, red chilli powder, garam masala powder, and salt. Mix well and cook for a minute. Add the fish pieces and mix gently, making sure that the fish is coated with the masala. Pour in 1 cup of water and stir gently. Cover the pan and let the curry simmer on medium heat for about 10-15 minutes or until the fish is cooked. Garnish with fresh coriander leaves and serve hot with steamed rice. Enjoy your delicious fish curry! ",
+                "Ingredients": "500g fish (cut into pieces), 2 onions (finely chopped), 2 tomatoes (finely chopped), 1 tsp ginger paste, 1 tsp garlic paste, 1 tsp cumin powder, 1 tsp coriander powder, 1/2 tsp turmeric powder, 1 tsp red chilli powder, 1 tsp garam masala powder, Salt to taste, Fresh coriander leaves for garnishing.",
+                "rating": "4.5"
+            },
+            {
+                "_id": "3b",
+                "food_name": "Bengali fish curry",
+                "food_img": "https://img.freepik.com/free-photo/top-view-vegetable-soup-with-meat-inside-plate-grey_140725-36040.jpg?w=740&t=st=1683022642~exp=1683023242~hmac=16de5211ba8c1cb14bf3cd860f5d4b4c562fa1c49302137bba7d133164942682",
+                "method": "Heat oil in a pan and add the finely chopped onions. Sauté until the onions turn translucent. Add the ginger and garlic paste and sauté for a minute. Add the chopped tomatoes and green chillies, and cook until the tomatoes are soft and pulpy. Add cumin powder, coriander powder, turmeric powder, red chilli powder, garam masala powder, and salt. Mix well and cook for a minute. Add the fish pieces and mix gently, making sure that the fish is coated with the masala. Pour in 1 cup of water and stir gently. Cover the pan and let the curry simmer on medium heat for about 10-15 minutes or until the fish is cooked. Garnish with fresh coriander leaves and serve hot with steamed rice. Enjoy your delicious fish curry!",
+                "Ingredients": "500g fish (cut into pieces), 2 onions (finely chopped), 2 tomatoes (finely chopped), 1 tsp ginger paste, 1 tsp garlic paste, 1 tsp cumin powder, 1 tsp coriander powder, 1/2 tsp turmeric powder, 1 tsp red chilli powder, 1 tsp garam masala powder, Salt to taste, Fresh coriander leaves for garnishing.",
+                "rating": "4.2"
+            },
+            {
+                "_id": "3c",
+                "food_name": "Goan fish curry",
+                "food_img": "https://img.freepik.com/free-photo/high-angle-chicken-meal_23-2148825122.jpg?w=740&t=st=1683022680~exp=1683023280~hmac=4c0f88340ed1e18e7aa766e32955905c43401acbe72c61fe5fd7461ddff8f1f6",
+                "method": "Heat oil in a pan and add the finely chopped onions. Sauté until the onions turn translucent. Add the ginger and garlic paste and sauté for a minute. Add the chopped tomatoes and green chillies, and cook until the tomatoes are soft and pulpy. Add cumin powder, coriander powder, turmeric powder, red chilli powder, garam masala powder, and salt. Mix well and cook for a minute. Add the fish pieces and mix gently, making sure that the fish is coated with the masala. Pour in 1 cup of water and stir gently. Cover the pan and let the curry simmer on medium heat for about 10-15 minutes or until the fish is cooked. Garnish with fresh coriander leaves and serve hot with steamed rice. Enjoy your delicious fish curry!",
+                "Ingredients": "500g fish (cut into pieces), 2 onions (finely chopped), 2 tomatoes (finely chopped), 1 tsp ginger paste, 1 tsp garlic paste, 1 tsp cumin powder, 1 tsp coriander powder, 1/2 tsp turmeric powder, 1 tsp red chilli powder, 1 tsp garam masala powder, Salt to taste, Fresh coriander leaves for garnishing.",
+                "rating": "4.5"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Tahsin Rahman",
+        "specialty": "Bangladeshi cuisine",
+        "img_url": "https://img.freepik.com/premium-photo/happy-male-chef-dressed-uniform-holding-wooden-spoon_156779-545.jpg?w=900",
+        "years_of_experience": "10",
+        "likes": "1000",
+        "bio": "Chef Tahsin Rahman is a well-known Bangladeshi chef who has a passion for creating traditional dishes with a modern twist. He started his career as a chef in Singapore and has worked in several renowned hotels and restaurants. He has won several awards for his culinary skills and innovative approach to cooking.",
+        "recipes": [
+            {
+                "_id": "4a",
+                "food_name": "Bhuna khichuri",
+                "food_img": "https://img.freepik.com/free-photo/indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18712.jpg?w=740&t=st=1683024168~exp=1683024768~hmac=87770eab584d4dd691e9817cfed39c5a2c1c668949152016516171fb0a03081e",
+                "method": "Wash the rice and lentils and soak them in water for 20-30 minutes. Heat oil or ghee in a pot and add cumin seeds, bay leaf, cinnamon stick, cardamom pods, and cloves. Fry for a minute until fragrant. Add chopped onions and fry until golden brown. Add coriander powder, turmeric powder, red chili powder, and salt to taste, and stir well. Add 2-3 cups of water and bring to a boil. Reduce the heat to low, cover the pot, and let it cook for 20-25 minutes or until the rice and lentils are cooked and the water has been absorbed. Garnish with fried onions and chopped coriander leaves.",
+                "Ingredients": "1 cup of basmati rice, 1/2 cup of red lentils, 1 onion, finely chopped, 3-4 cloves of garlic, minced, 1 inch piece of ginger, grated, 1 teaspoon of cumin seeds, 1 teaspoon of coriander powder, Salt, to taste, 1 bay leaf, 3-4 cardamom pods",
+                "rating": "4.3"
+            },
+            {
+                "_id": "4b",
+                "food_name": "Hilsa fish",
+                "food_img": "https://img.freepik.com/free-photo/sour-curry-with-snakehead-fish-spicy-garden-hot-pot-thai-food_1150-26404.jpg?w=740&t=st=1683025001~exp=1683025601~hmac=395b60200d05edfdd547b310b83105d418faf6e0f46eb332642bd9447b8f4555",
+                "method": "Clean the Hilsha fish pieces and rub them with salt and turmeric powder. Heat oil in a pan and fry the fish pieces until they turn golden brown. Remove them from the pan and keep them aside. When they begin to splutter, add tomato puree, remaining salt, chilli powder and sugar.Stir-fry over high flame, till the oil separates. Add the fried fish pieces to the pan and let it simmer for 5-7 minutes until the fish pieces are cooked through and the curry thickens. Garnish with chopped coriander leaves and serve hot with steamed rice.",
+                "Ingredients": "4-6 pieces of Hilsha fish, 1 onion, sliced, 8 cups water,2 tbsp salt,1 tbsp ginger, sliced,2 tbsp butter,1 tbsp oil,2 tsp shahi jeera,1 tsp kasoori meethi, 2-3 tablespoons of coriander leaves",
+                "rating": "4.3"
+            },
+            {
+                "_id": "4c",
+                "food_name": "Dal",
+                "food_img": "https://img.freepik.com/free-photo/lentil-soup-with-mixed-ingredients-herbs-white-bowl_114579-3082.jpg?w=740&t=st=1683025036~exp=1683025636~hmac=1f675f64ca17231a688c072eb4a9884aaa20cbd35a3033d1d945804e0cc4d5f4",
+                "method": "Pick and wash the rice and the dal, and soak together in water for 1/2 an hour, at least. Drain and keep aside.Heat the ghee in a heavy based saucepan and add the cumin and heeng.When the seeds splutter, add the rice and dal mixture, and saute over high heat, till well mixed and excess water dries up.4.Add the dhania powder and the salt and mix well too. ",
+                "Ingredients": "1 Cup rice,1/2 cup moong dal chilke wali (split green gram),2 tbsp ghee,1 tsp cumin seeds,A pinch of heeng (Asafoetida),1 tbsp dhania powdered,2 tsp salt",
+                "rating": "4.5"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Nazim Ahmed",
+        "specialty": "Bhuna khichuri",
+        "img_url": "https://img.freepik.com/free-photo/image-cheerful-young-cook-uniform-standing-isolated-grey-wall_171337-5340.jpg?w=740&t=st=1683025182~exp=1683025782~hmac=720cd6ef1e9c4c63113826e007941642c29d731df2641a1bc44c45acff1e2dc7",
+        "years_of_experience": "8",
+        "likes": "2000",
+        "bio": "Chef Nazim Ahmed is a well-known Bangladeshi chef who specializes in fusion cuisine. He has worked in various countries, including Malaysia, India, and the UAE, and has won several awards for his culinary skills. Chef Ahmed's unique approach to combining traditional Bangladeshi flavors with international cuisine has made him popular among food lovers.",
+        "recipes": [
+            {
+                "_id": "5a",
+                "food_name": "Beef curry",
+                "food_img": "https://img.freepik.com/free-photo/delicious-goulash-ready-dinner_23-2149370903.jpg?w=360&t=st=1683025687~exp=1683026287~hmac=df496a107b5697a24355fa12ffbf1e4179ce3f71006eda09f9cd382734ca1c49",
+                "method": "Heat oil in a pan and fry the chopped onions until they turn translucent. Add minced garlic, grated ginger, and chopped green chilies to the pan, and fry for a minute. Add cumin powder, coriander powder, turmeric powder, red chili powder, and salt to taste, and fry for another minute. Add 1 cup of water to the pan and bring to a boil. Reduce the heat and let it simmer for 30-35 minutes or until the beef is tender. Once the beef is cooked, garnish with chopped coriander leaves and serve hot with steamed rice or naan bread. Your beef curry is ready to serve!",
+                "Ingredients": "500 grams beef, cut into small pieces,2 tsp Almonds chopped,1 tsp Green cardamom powder (optional), 2 onions, chopped, 2-3 garlic cloves, 1-inch piece of ginger, 1 teaspoon cumin powder, 1 teaspoon coriander powder, Salt, 1 cup water, Coriander leaves, chopped for garnishing.",
+                "rating": "4.7"
+            },
+            {
+                "_id": "5b",
+                "food_name": "Samosas",
+                "food_img": "https://img.freepik.com/free-photo/deep-fried-samosas-dumplings-gourmet-appetizer-generated-by-ai_188544-13491.jpg?w=826&t=st=1683026108~exp=1683026708~hmac=1ea5ec65253df7a3b5d6ba6482f1f5aff0ebd8ee5b8a4897dd5df8c673545855",
+                "method": "In a mixing bowl, combine all-purpose flour, salt, and vegetable oil. Mix well. Add water gradually and knead into a stiff dough. Cover and set aside for 20-30 minutes. In a pan, heat 2 tablespoons of vegetable oil. Add cumin seeds and let them splutter. Add chopped onions and sauté until they turn translucent. Add mashed potatoes, boiled green peas, cilantro leaves, coriander powder, garam masala powder, red chili powder, and salt to taste. Mix well. Cut the oval in half and fold the straight edge to form a cone. Fill the cone with the potato filling and seal the open edge by applying water on the edges. Add the samosas to the oil and fry until they turn golden brown.",
+                "Ingredients": "1 cup all-purpose flour, 1/4 teaspoon salt, 2 tablespoons vegetable oil, 1/4 cup water, 3 Cloves,3 Bay leaves,2 1/2 tsp turmeric powder,2 tsp ginger grated, 1/2 teaspoon coriander powder, Salt, Vegetable oil for frying",
+                "rating": "4.3"
+            },
+            {
+                "_id": "5c",
+                "food_name": "Paratha",
+                "food_img": "https://img.freepik.com/free-photo/close-up-bread-cooked-indian-style_23-2148294972.jpg?w=740&t=st=1683026450~exp=1683027050~hmac=763eb9fa719336fd12f878f9f9b24560ba096e0a72d329c2e05cafcd132afb8d",
+                "method": "In a mixing bowl, combine all-purpose flour, salt, and sugar. Mix well. Gradually add water and knead the dough until it is smooth and elastic. Cover and set aside for 15-20 minutes. In another small pan, heat oil or ghee.2.Add the chopped onions and fry them till light brown. Fold the dough in half and spread more ghee or butter on the surface. Fold it in half again to make a triangle shape. Place the rolled-out dough on the hot pan and cook until brown spots appear on the bottom. Brush a little ghee or butter on the surface of the paratha and flip it over again. Cook for another 1-2 minutes. Remove the paratha from the pan and repeat the process with the remaining dough balls.",
+                "Ingredients": "2 cups all-purpose flour, 1 teaspoon salt, 2 tablespoons vegetable oil,250 gms spinach,250 gms bathua saag,50 gms corn flour, 2 inches ginger,1 tsp turmeric, 3/4 cup water, 2 tablespoons ghee or butter.",
+                "rating": "4.6"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "name": "Tareq Taylor",
+        "specialty": "Butter chicken",
+        "img_url": "https://img.freepik.com/free-photo/cook-uniform-holding-salad-showing-okay-gesture_171337-5345.jpg?w=740&t=st=1683025560~exp=1683026160~hmac=fcc66fc1a131ed4277832d3ad590cbaea1d00706add2e2810d08f02f73f88bf5",
+        "years_of_experience": "7",
+        "likes": "1700",
+        "bio": "Chef Tareq Taylor is a Swedish chef of Bangladeshi descent. He is known for his passion for using locally sourced ingredients and creating innovative dishes that reflect his multicultural background. Chef Taylor has hosted several popular cooking shows and has authored several cookbooks.",
+        "recipes": [
+            {
+                "_id": "6a",
+                "food_name": "Haleem",
+                "food_img": "https://img.freepik.com/free-photo/roasted-pumpkin-carrot-soup-with-cream-black-pepper-pumpkin-seeds-cutting-board-fresh-pumpkin-slices-black-bread_114579-1706.jpg?w=740&t=st=1683026900~exp=1683027500~hmac=e774d70c9c8a3071ac8b4c876c8cfa6e96a4fd2deadb07a5a1874db2c307732e",
+                "method": "The kulcha is stuffed with a spicy aloo masala, making it taste just delicious! If you are familiar with making parathas at home, then preparing this all kulcha shall be super easy for you.Add the chopped green chillies, red chilli powder, dried mango powder, garam masala powder and coriander leaves to boiled potatoes.",
+                "Ingredients": "1 cup whole wheat, 1/2 cup barley, 1/4 cup split Bengal gram (chana dal),125 gram Maida,1/4 tsp Baking Soda,3 tsp Ghee,2 tbsp Yoghurt,1 tsp Sugar,1 tsp Salt,1/2 cup Water, 1 lb. boneless mutton or beef, cut into small pieces, 1 tablespoon garlic paste, 1 tablespoon cumin powder, Lemon wedges and fried onions for garnish",
+                "rating": "4.6"
+            },
+            {
+                "_id": "6b",
+                "food_name": "Shondesh",
+                "food_img": "https://img.freepik.com/free-vector/realistic-indian-sweet-collection_23-2148778791.jpg?w=740&t=st=1683027700~exp=1683028300~hmac=808b47446277e9372edb1c6a5cb8051f5e1028ed2ee7331a2c72794737a3e8f6",
+                "method": "In a large pot, heat the milk until it comes to a boil. Reduce the heat to low and add the vinegar or lemon juice, one tablespoon at a time, stirring gently. The milk will curdle and the whey will separate from the cheese. Turn off the heat. It is prepared by using paneer chunks dipped into a luscious and spicy gravy. Add the cardamom powder and saffron strands and mix well. Continue stirring until the mixture becomes thick and starts to leave the sides of the pan. Chill in the refrigerator for an hour or two before serving.",
+                "Ingredients": "2 litres of whole milk, 150 gms Paneer,1/2 cup Tomato puree,4-5 tablespoons of white vinegar or lemon juice, 1 cup of sugar, 1/4 teaspoon of cardamom powder, 1/2 cup Onion (cubed),2 Cardamom,1/2 tsp Cumin seeds,,to taste Salt, Chopped nuts (optional)",
+                "rating": "4.8"
+            },
+            {
+                "_id": "6c",
+                "food_name": "Kachchi Biryani",
+                "food_img": "https://img.freepik.com/free-photo/side-view-pilaf-with-stewed-beef-meat-plate_141793-5057.jpg?w=740&t=st=1683028077~exp=1683028677~hmac=a4603f981fb7a3abcb3295102318db4181cfed0c3c3f42e6b31eed2b67970f0d",
+                "method": "Wash the rice and soak it in cold water for at least 30 minutes. In a large bowl, mix the yogurt, ginger paste, garlic paste, chili powder, turmeric powder, coriander powder, cumin powder, and salt. Add the meat to the bowl and mix well. Cover the bowl and refrigerate for at least 3 hours or overnight. In a large pot, heat the oil or ghee and fry the onions until golden brown. Remove the onions from the pot and set them aside. Add the marinated meat to the same pot and cook for about 10 minutes, stirring occasionally. Pour the saffron milk over the top layer of rice and sprinkle the fried onions on top. Bake for about 45 minutes or until the meat is fully cooked and the rice is soft and fluffy. Serve the Kachchi Biryani hot with raita, salad, or any other side dish of your choice.",
+                "Ingredients": "1 kg of basmati rice, 1 kg of goat meat, cut into small pieces, 1 cup yogurt,1 tablespoon lemon juice, 4 teaspoons ground cumin divided,1 teaspoon ground cinnamon,2 teaspoons cayenne pepper,2 teaspoons freshly ground black pepper,1 tablespoon minced fresh ginger,2 teaspoons salt, divided, or more to taste, 2 tablespoons of ginger paste, 2 cups of vegetable oil or ghee, A pinch of saffron, 1/2 cup of water.",
+                "rating": "4.4"
+            }
+        ]
+    }
+]
